@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" >
+        <title> My Resume </title>
+    </head>
+    <body>
+        <h1>Summary </h1>
+        <p>This resume will be built using everything I have learned so far, and will be show casing how far I can push that knowledge.
+        </p>
+        <h2>Education</h2>
+        <ul>
+            <li> I went to trade school to be an electrician.</li>
+                <li>G.E.D</li> 
+            <li>Taken many online courses, including some ue4/5 and html. I have also gotten fairly good with the program Trenchbroom, used to make in-game maps for games that 
+            use the Quake engine.</li>
+        </ul>    
+        <h2> Work Experience </h2>
+        <p> I did construction for almost a decade, everything from framing, roofing, drywall, electrical, flooring, siding. 
+            I've ran a kitchen/tavern, for almost a year. It was there I first learned how to have good customer interactions, which I later applied to getiting jobs for the
+            construction crew I worked for.
+            I have 1.5 years of experience working in a factory, where I ran a line of machines that produced wheel hubs for various vehicles. We had an engineer that would come by
+            if there was ever a problem, and I would basically shadow him to try and learn as much as I could about it. Much of it was out of my field of work, but I was still interested.
+            I learned some of the different code that they used to run the machines, including a robot arm.
+        </p>
+        <h2> Skills </h2>
+        <ul>
+            <li>I'm a very fast learner</li>
+            <li> I can read/write blueprints for houses/garages/barns</li>
+            <li> almost a decade of computer use that is far outside the scope of an average person.
+            This includes map making, game development which I am still working on in my spare time as I don't know everything needed to finish the game. As it sits there are no maps
+            but there is movement and a gun with animations coded in and functional. </li>
+        </ul>     
+    <hr />
+        <a href="4.3 HTML Porfolio Project/public/about.html">About Me</a>
+    <a href="4.3 HTML Porfolio Project/public/contact.html">Contact Me</a>
+    
+    <hr />
+    
+    
+    <footer>Jaden Davis</footer>
+   <a href="https://chatgpt.com/auth/login"> <img src="4.3 HTML Porfolio Project/assets/images/2024_07_24_21_42_09_542.png" height="300" width="779" /></a>
+    
+    
+    
+    
+    
+    
+    </body>    
+</html>        
